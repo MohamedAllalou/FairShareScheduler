@@ -1,9 +1,8 @@
-// COEN 346
 // Nov 10 2022
 // C++ program to implement a fair-share scheduler
 
-// Mohamed Allalou 40010809
-// Ayman Chaoui 40021914
+// Mohamed Allalou 
+// Ayman Chaoui 
 
 
 #include <iostream>
